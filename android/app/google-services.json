@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "484139728526",
+    "firebase_url": "https://flutter-latest-chat-app-default-rtdb.firebaseio.com",
+    "project_id": "flutter-latest-chat-app",
+    "storage_bucket": "flutter-latest-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484139728526:android:237c3fb35998fc3c97d3df",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484139728526-43t6n38asq7rr2c8tlrj4pm64u7lpq46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "b7102114cd8e837f874cb973e9c4e0a7c51366c9"
+          }
+        },
+        {
+          "client_id": "484139728526-rtroiskplvukit31uvpuvhk83hjo49d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX7UR72F8eHBqO9v7MXTvcRg1hq3m3rfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484139728526-rtroiskplvukit31uvpuvhk83hjo49d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484139728526:android:a208133fd72e1c9997d3df",
+        "android_client_info": {
+          "package_name": "com.example.object_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484139728526-rtroiskplvukit31uvpuvhk83hjo49d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX7UR72F8eHBqO9v7MXTvcRg1hq3m3rfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484139728526-rtroiskplvukit31uvpuvhk83hjo49d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
