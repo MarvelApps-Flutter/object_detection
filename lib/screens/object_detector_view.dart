@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_mlkit_object_detection/google_mlkit_object_detection.dart';
 import 'package:path_provider/path_provider.dart';
-import '../painters/object_detector_painter.dart';
+import '../widgets/object_detector_painter.dart';
 import 'camera_view.dart';
 import 'package:path/path.dart';
 
